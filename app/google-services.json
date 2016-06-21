@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "232007098857",
+    "project_id": "cnamtp14f"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232007098857:android:20fd4242640fa322",
+        "android_client_info": {
+          "package_name": "fr.canm.cyrilstern1.cnamtp14f"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMi9W7sDzegPVk0wVzzqMVu0zekmDmuL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
